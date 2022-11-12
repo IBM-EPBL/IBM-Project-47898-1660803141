@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
  <h1>Smart Fashion Recommender Application</h1>
- <h3>IBM-Project-10373-1659175077</h3>  
-  </div>
+</div>
   # IBM-Project-47898-1660803141 
 Smart Fashion Recommender Application
 <div align="center">
